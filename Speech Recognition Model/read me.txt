@@ -1,0 +1,1 @@
+Add vosk-model-en-in-0.5 speech recognition modal from here https://alphacephei.com/vosk/models  and paste in this folder 
